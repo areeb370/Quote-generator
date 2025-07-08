@@ -48,10 +48,6 @@ export default function QuoteGenerator() {
           <EmptyState />
         ) : null}
 
-        {/* Footer */}
-        <div className="mt-12 text-center text-muted-foreground text-sm">
-          <p>Built with Next.js and ShadCN UI • Quote Generator v1.0</p>
-        </div>
       </div>
     </div>
   );
